@@ -1,0 +1,20 @@
+证书指纹:
+别名: hospitalnavigation
+密码：123456
+
+
+创建日期: 2022年8月19日
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=wangping, OU=congrongkeji, O=congrongkeji, L=nanchang, ST=jiangxisheng, C=china
+发布者: CN=wangping, OU=congrongkeji, O=congrongkeji, L=nanchang, ST=jiangxisheng, C=china
+序列号: f83d94d1e53c71a4
+生效时间: Fri Aug 19 09:41:48 CST 2022, 失效时间: Sun Jul 26 09:41:48 CST 2122
+证书指纹:
+         SHA1: CC:12:36:1B:8E:46:03:7C:91:1B:93:A9:7F:CB:52:B3:E3:18:71:19
+         SHA256: 0E:95:49:C2:DD:83:7D:AE:16:69:51:9D:BB:C5:19:11:D1:25:04:E7:0F:5F:EE:81:AB:F9:71:DF:6E:B1:78:D7
+
+签名算法名称: SHA256withRSA
+主体公共密钥算法: 2048 位 RSA 密钥
+版本: 3
